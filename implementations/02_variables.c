@@ -1,12 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+int main(){
 //initialising the variables
 int mynum;
 float myflo;
-char hello;
 
-int main(){
 //assigning values to the variables
 int mynum = 20;
 float myflo = 20.15;
